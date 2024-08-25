@@ -1,5 +1,5 @@
 <div class="markdown-heading" dir="auto">
-<h1 align="center" class="heading-element">Hi there <span class="wave"><img src="https://tenor.com/view/hi-gif-23520343"/></span> , I'm Farhan Tonmoy</h1>
+<h1 align="center" class="heading-element">Hi there <span class="wave"><img src="https://drive.google.com/file/d/1EjEHtjoB2de8jawxfzVPmm7kS0wDtZtw/view?usp=sharing"/></span> , I'm Farhan Tonmoy</h1>
 
 <h4 align="center" class="heading-element">Odoo developer @ DIU | Odoo Certified | Odoo ERP Expert | Python | Java Spring Boot | Tech Expert | IT Professional | Odoo HMS Solution</h4>
 </div>
